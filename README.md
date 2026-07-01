@@ -4,6 +4,6 @@
 win 10 x64
 vlc player
 
-You can buy license of 30, 90 days or 6, 12 months.
-You can try it 1 days for free.
-mail to: e.petrovich.pl@gmail.com
+#### You can buy license of 30, 90 days or 6, 12 months.
+#### You can try it 1 days for free.
+#### mail to: e.petrovich.pl@gmail.com
