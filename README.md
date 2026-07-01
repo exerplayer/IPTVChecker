@@ -11,6 +11,6 @@
 #### You can try it 1 days for free.
 #### mail to: e.petrovich.pl@gmail.com
 
-##Note
+## Note
 #### When checking a new playlist, a *.json file is generated to save the progress. You can close the program at any time, and upon the next launch, the check will resume from where it left off. You can edit the *.json file to start the check from a specific channel.
 #### Frames captured during the check are saved to the "frames" folder. This folder can be claered only manually.
