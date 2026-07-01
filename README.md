@@ -1,5 +1,8 @@
 # IPTVChecker
-## A program for checking M3U playlists for non-working channels and removing them with the click of a button. Quality of identification 90%.
+## A program for checking M3U playlists for non-working channels and removing them with the click of a button. 
+##### Identification accuracy is 80–90%. It depends on the channel type.
+
+
 ### Requirements:
 ##### win 10 x64
 ##### vlc player
